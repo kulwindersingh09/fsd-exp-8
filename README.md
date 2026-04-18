@@ -57,5 +57,5 @@ Note: Run both backend and frontend terminals for this experiment.
 ---
 
 ## Student Info
-- **Name:** Dewang Singla
+- **Name:** Kulwinder Singh
 - **Course:** CONT_24CSP-293 — Full Stack I
